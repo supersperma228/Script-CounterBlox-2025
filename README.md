@@ -1,1 +1,1 @@
-I made a tracer a little crooked with chatgpt, esp can be used in other modes tracer bhop and aim not sure
+tracer is a bit crooked did everything with the help of chatgpt esp can be used in other modes aim bhop and tracer not sure if the menu does not work run the scripts separately
