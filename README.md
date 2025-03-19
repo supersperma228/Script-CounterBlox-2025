@@ -1,1 +1,1 @@
-tracer is a bit crooked did everything with the help of chatgpt esp can be used in other modes aim bhop and tracer not sure if the menu does not work run the scripts separately and in the menu for now you can not turn off the functions somehow I will finish
+tracer is a bit crooked I did everything with chatgpt esp can be used in other aim modes bhop and tracer I'm not sure if the menu doesn't work run the scripts separately and in the menu you can't disable functions yet I'll finish it somehow the menu opens and closes on insert
